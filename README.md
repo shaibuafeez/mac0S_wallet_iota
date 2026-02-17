@@ -4,7 +4,7 @@ A minimal macOS wallet for the IOTA blockchain, built with SwiftUI and the [IOTA
 
 ## Demo
 
-https://github.com/shaibuafeez/mac0S_wallet_iota/raw/main/demo.mov
+https://github.com/user-attachments/assets/3e05a12d-b9a3-490a-9c43-58ae68dddd61
 
 ## Features
 
@@ -16,6 +16,9 @@ https://github.com/shaibuafeez/mac0S_wallet_iota/raw/main/demo.mov
 - **Network switching** between Devnet and Testnet
 - **Devnet faucet** for testing
 - **Recovery phrase** backup in settings
+
+
+
 
 ## Requirements
 
