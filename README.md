@@ -4,7 +4,7 @@ A minimal macOS wallet for the IOTA blockchain, built with SwiftUI and the [IOTA
 
 ## Demo
 
-https://github.com/user-attachments/assets/Demo.mov
+https://github.com/shaibuafeez/mac0S_wallet_iota/raw/main/demo.mov
 
 ## Features
 
